@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19847" started-at="2019-03-24T17:02:12Z" finished-at="2019-03-24T17:02:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19847" started-at="2019-03-24T17:02:12Z" finished-at="2019-03-24T17:02:32Z">
+      <class name="com.Automation.Testing.Testing">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.Automation.Testing.Testing@1753acfe]" name="beforemethod" is-config="true" duration-ms="4942" started-at="2019-03-24T22:32:12Z" finished-at="2019-03-24T22:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testHomePageOpens()[pri:0, instance:com.Automation.Testing.Testing@1753acfe]" name="testHomePageOpens" duration-ms="12145" started-at="2019-03-24T22:32:17Z" finished-at="2019-03-24T22:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageOpens -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Automation.Testing.Testing@1753acfe]" name="afterMethod" is-config="true" duration-ms="2741" started-at="2019-03-24T22:32:29Z" finished-at="2019-03-24T22:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.Automation.Testing.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
